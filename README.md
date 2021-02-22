@@ -3,6 +3,7 @@
 ```bash
 yarn install
 ```
+
 # To run
 
 ```bash
@@ -19,11 +20,12 @@ h2 of "Hello World"
 
 "Hello" name
 
-
 ## Make a button1 component - setState
+
     setState count
 
 ## Mak a button2 component (set state) - useEffect
+
     when number reaches 5
     alert('hello')
 
@@ -54,7 +56,6 @@ using this input that submits a color
 
 make a list of boxes that track each color
 
-
 #### Hard Mode below (warning - may need to change how you represent the palette color)
 
 ##### Add/Edit Mode
@@ -67,5 +68,3 @@ replace the current color with that color
 when submitting (put it back into "Add Mode")
 
 ![](mockup.png)
-
-
